@@ -1,0 +1,1 @@
+.cards{margin:10px 0;height:25px;display:flex}.card{filter:grayscale(1)}.action{filter:grayscale(0)}.valid{outline:2px solid green}.invalid,.valid{border-radius:4px}.invalid{outline:2px solid red}.btn,.form-control{height:34px;border-radius:4px;box-sizing:border-box}.btn{color:#fff;background-color:#5cb85c;border-color:#4cae4c}figure img{width:100%}
