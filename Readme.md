@@ -13,4 +13,4 @@
 - Discover: 6011001810500209
 - American Express: 371758885524003
 
-Ссылка на GitHub Pages: 
+Ссылка на GitHub Pages: https://stanislav-pronkin.github.io/AHJ-4/
